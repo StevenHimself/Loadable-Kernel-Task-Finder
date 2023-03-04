@@ -1,5 +1,5 @@
 # Loadable-Kernel-Task-Finder
-A task finder written in kernel space to detect if a process is running within your Linux environment. If so, it display the existing process along with its process ID in the kernel log. 
+A task finder written in kernel space to detect if a process is running within your Linux environment. If so, it displays the existing process along with its process ID in the kernel log. 
 
 # Running the Project
 1. Open the Linux terminal and git clone this repository into a directory of your choosing
